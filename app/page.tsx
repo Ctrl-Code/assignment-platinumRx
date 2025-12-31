@@ -3,23 +3,18 @@ import { Main } from "./components/main";
 import { Footer } from "./components/footer";
 import { ModelContextWrapper } from "./contexts";
 import { Modal } from "./components/modal";
-// eslint-disable-next-line @typescript-eslint/no-require-imports
-const axios = require("axios")
+import MockData from "./mockData.json"
 
-export default async function Home() {
-  const getData = async () => {
-    const res = await axios.get('https://jsonfakery.com/products/random/20')
-    return res.data.slice(0, 20)
-  }
-  const data = await getData()
+export default function Home() {
+  const products = MockData
 
   return (
     <ModelContextWrapper>
       <div className="flex flex-col items-center h-full w-full max-w-full max-h-full">
         <Header />
-        <Main products={data} />
+        <Main products={products} />
         <Footer />
-        <Modal products={data} />
+        <Modal products={products} />
       </div>
     </ModelContextWrapper>
   );

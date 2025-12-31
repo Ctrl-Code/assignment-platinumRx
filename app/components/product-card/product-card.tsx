@@ -32,7 +32,7 @@ export default function ProductCard({
                     priority
                     height={200}
                     width={200}
-                    className="object-cover place-self-center"
+                    className="w-auto h-full object-cover place-self-center"
                     sizes="200px"
                 />
             </div>

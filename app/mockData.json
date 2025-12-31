@@ -1,0 +1,342 @@
+[
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Reiciendis in ipsa labore beatae voluptatem. Voluptates sed sunt excepturi temporibus consequatur. Molestiae magni voluptas dolorum fugiat sit ut. Delectus rerum at facere eligendi dolorum unde.",
+    "id": "aa7b8552-1555-4e2c-87c7-ee809145718f",
+    "image": "https://images.unsplash.com/photo-1604478498491-d63d698dfe0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNnx8SG9tZURlY29yfGVufDB8MHx8fDE2OTczNjQyNTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Spencer Inc",
+    "name": "Stupendous Mechanism",
+    "price": 132.69,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "e7e1bc83-96c0-448d-aa9a-6103bff732e4",
+      "name": "Kitchenware",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "e7e1bc83-96c0-448d-aa9a-6103bff732e4",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Voluptas illo vel saepe qui similique officiis hic. Placeat minima et ut quisquam.",
+    "id": "b3228f9e-0238-4b4e-911f-279d7134ef9a",
+    "image": "https://images.unsplash.com/photo-1615108395437-df128ad79e80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw2fHxQZXJmdW1lfGVufDB8MHx8fDE2OTczNjQyNTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Kautzer, Cummings and Reinger",
+    "name": "Majestic Gadget",
+    "price": 432.56,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "ce8ffbf3-3a8c-49e1-b9e6-e1fc3834f5a3",
+      "name": "Office Supplies",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "ce8ffbf3-3a8c-49e1-b9e6-e1fc3834f5a3",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Quod officiis veritatis perferendis ea voluptates. Esse nesciunt libero harum omnis molestiae. Et et sit consequatur a velit. Autem et adipisci in soluta similique inventore dolor.",
+    "id": "efc58d39-4b24-42a8-82dc-048c92f38572",
+    "image": "https://images.unsplash.com/photo-1508253730651-e5ace80a7025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxfHxBbGNvaG9sfGVufDB8MHx8fDE2OTczNjQyNjl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Hayes-Hamill",
+    "name": "Outstanding Object",
+    "price": 727.8,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "f18dd85d-12ea-4816-b9d7-2a35bc95a394",
+      "name": "Garden Tools",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "f18dd85d-12ea-4816-b9d7-2a35bc95a394",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Quia libero laudantium ut doloribus voluptates provident. Corrupti incidunt nulla totam harum. Voluptas sed saepe reprehenderit. Et vero libero provident adipisci.",
+    "id": "09dc9a97-fd40-434e-a931-35a72bd6e6da",
+    "image": "https://images.unsplash.com/photo-1621413268056-ce8911fe1563?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw2fHxTdGF0aW9uZXJ5fGVufDB8MHx8fDE2OTczNjQyNTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Graham PLC",
+    "name": "Remarkable Doodad",
+    "price": 238.03,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "1b43132a-e746-4588-97ad-29e40ec5e37c",
+      "name": "Clothing",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "1b43132a-e746-4588-97ad-29e40ec5e37c",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Doloremque ipsum asperiores architecto. Enim aut distinctio consectetur velit nesciunt minima magni. Voluptas rerum reprehenderit est hic quidem possimus. Consectetur voluptates laboriosam possimus est quaerat.",
+    "id": "256044c5-9325-4d36-93cb-b10015827567",
+    "image": "https://images.unsplash.com/photo-1594941250082-85e4c770d293?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOHx8TWFrZXVwfGVufDB8MHx8fDE2OTczNjQyNTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Kovacek-Roob",
+    "name": "Outstanding Doodad",
+    "price": 1044.94,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "7c2bf15d-b834-46ea-94f6-0a349e258d1f",
+      "name": "Pet Supplies",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "7c2bf15d-b834-46ea-94f6-0a349e258d1f",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Cumque minima tempore rerum consectetur asperiores laborum. Eligendi et inventore delectus. Corporis provident illum ipsa enim.",
+    "id": "fe5f3c7c-11dd-42de-a858-db44a4e70954",
+    "image": "https://images.unsplash.com/photo-1629238135877-dae437cf0fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw2fHxIYWlyY2FyZXxlbnwwfDB8fHwxNjk3MzY0MjYwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Pacocha and Sons",
+    "name": "Super Machine",
+    "price": 968.96,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "6a342ad8-380c-4977-9fe9-cdb6b0e7310e",
+      "name": "Books",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "6a342ad8-380c-4977-9fe9-cdb6b0e7310e",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Dicta repellat nobis reiciendis. Iure facilis reprehenderit qui dolorem dolorem consequatur omnis. Molestiae repellendus aut maiores est nobis laboriosam.",
+    "id": "6c20eac6-aa07-464e-a57c-fdd60c75f268",
+    "image": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyMXx8V2luZXxlbnwwfDB8fHwxNjk3MzY0MjY3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Emard, Batz and Cassin",
+    "name": "Remarkable Widget",
+    "price": 680.43,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "d031bd75-0906-47b2-811a-40b58bb9a0a8",
+      "name": "Jewelry",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "d031bd75-0906-47b2-811a-40b58bb9a0a8",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Perspiciatis eos qui aperiam fugiat quod cum consequatur. Dolores amet ipsam impedit doloribus. Sed asperiores delectus eveniet. Provident sed aliquam amet fugiat incidunt non ex.",
+    "id": "fd77e7ae-6a3e-4e97-8d9e-d8ce58375d68",
+    "image": "https://images.unsplash.com/photo-1601410253654-6c738a5acb97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyMnx8QXV0b21vYmlsZXxlbnwwfDB8fHwxNjk3MzY0MjQ5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Rohan, Thompson and Renner",
+    "name": "Ultra Apparatus",
+    "price": 826.22,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "ab5d6bed-9a11-4996-854c-81567fa191af",
+      "name": "Home Appliances",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "ab5d6bed-9a11-4996-854c-81567fa191af",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Non sed perspiciatis dolore rem natus. Rerum nesciunt deserunt vel architecto.",
+    "id": "e8831cce-efbd-4e5c-be7f-065056d85579",
+    "image": "https://images.unsplash.com/photo-1587053170222-6d3e76bcef85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxM3x8U3VuZ2xhc3Nlc3xlbnwwfDB8fHwxNjk3MzY0MjUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Nolan-Maggio",
+    "name": "Amazing Appliance",
+    "price": 1174.51,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "5e3060e0-a5e7-4dbd-b644-e3f3901ad5a8",
+      "name": "Automotive Parts",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "5e3060e0-a5e7-4dbd-b644-e3f3901ad5a8",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Nam ea tenetur quibusdam. Voluptatem aut ut recusandae aspernatur magni culpa aut delectus. Eligendi ut cumque non quae aut. Rerum praesentium rerum quod nisi quod beatae quos et.",
+    "id": "513ae6bd-c0bd-4d41-9cde-18f5df2978ce",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwzfHxGdXJuaXR1cmV8ZW58MHwwfHx8MTY5NzM2NDIzOXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Ortiz, Ledner and Ankunding",
+    "name": "Brilliant Mechanism",
+    "price": 256.4,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "ab5d6bed-9a11-4996-854c-81567fa191af",
+      "name": "Home Appliances",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "ab5d6bed-9a11-4996-854c-81567fa191af",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Necessitatibus necessitatibus voluptatum sequi inventore qui. Odio voluptate pariatur nemo dolores vitae porro. Aut aliquid maiores ea aut dolores.",
+    "id": "fc632ffc-af9f-46b8-b9ad-2f50106285e9",
+    "image": "https://images.unsplash.com/photo-1551893665-f843f600794e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNHx8UGxhbnRzfGVufDB8MHx8fDE2OTczNTc1NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Mraz-Gulgowski",
+    "name": "Stupendous Whatsit",
+    "price": 227.18,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "1b43132a-e746-4588-97ad-29e40ec5e37c",
+      "name": "Clothing",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "1b43132a-e746-4588-97ad-29e40ec5e37c",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Tempore odit et veritatis ut error. Culpa voluptas voluptas aliquam eius blanditiis unde aspernatur. Provident dolores sint quaerat magnam dignissimos. Consequatur rerum reprehenderit qui non at voluptatem quas. Repellendus voluptatem sed quasi labore et voluptatem at.",
+    "id": "59cd80db-39ae-46fc-9418-b301ff3b88f7",
+    "image": "https://images.unsplash.com/photo-1607211851821-8be3cd6146f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNnx8Q3JhZnRzfGVufDB8MHx8fDE2OTczNjQyNjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Weimann PLC",
+    "name": "Extraordinary Whatsit",
+    "price": 588.36,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "2806a03f-b004-47ad-9411-daa958e5ba91",
+      "name": "Musical Instruments",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "2806a03f-b004-47ad-9411-daa958e5ba91",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Cumque nulla odio quas ut minima. Assumenda ut qui quia quasi voluptate. Sapiente sequi et nulla enim. Eos possimus totam nisi quasi enim autem.",
+    "id": "7092c39e-a99a-42dd-b9cb-d28025e93aea",
+    "image": "https://images.unsplash.com/photo-1486492440844-ebc195542a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxNHx8Q2FtZXJhfGVufDB8MHx8fDE2OTczNjQyNDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Batz-Reichel",
+    "name": "Fantastic Device",
+    "price": 769.62,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "1b43132a-e746-4588-97ad-29e40ec5e37c",
+      "name": "Clothing",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "1b43132a-e746-4588-97ad-29e40ec5e37c",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Rerum nam quod doloremque. Minus consectetur ea voluptatem quasi dignissimos. Repellat qui facere qui enim dolores et natus. Quia omnis saepe et pariatur aspernatur nisi.",
+    "id": "f4245f3e-4534-4b24-8ac5-b4d291d336ef",
+    "image": "https://images.unsplash.com/photo-1564670369369-5a4e02ed920b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxN3x8SGFuZGJhZ3xlbnwwfDB8fHwxNjk3MzY0MjUwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Powlowski and Sons",
+    "name": "Fantastic Implement",
+    "price": 1200.84,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "d031bd75-0906-47b2-811a-40b58bb9a0a8",
+      "name": "Jewelry",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "d031bd75-0906-47b2-811a-40b58bb9a0a8",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Libero doloribus sint quod est non. Laboriosam aspernatur velit sunt ut fugiat dolor occaecati. Qui iste alias ut omnis.",
+    "id": "bd7b5f67-a822-451a-9622-18040cb9d398",
+    "image": "https://images.unsplash.com/photo-1554042861-c5b9add98f2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOHx8S2l0Y2hlbndhcmV8ZW58MHwwfHx8MTY5NzM2NDI0M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Schaden-Abshire",
+    "name": "Extraordinary Instrument",
+    "price": 1050.6,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "92f23994-84e9-4bb1-9b1a-010a79929460",
+      "name": "Health Supplements",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "92f23994-84e9-4bb1-9b1a-010a79929460",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Veniam libero et suscipit ea quis rem. Nihil aut animi dignissimos vel. Et ea facilis dolorem est iure natus impedit harum. Reiciendis numquam harum quia blanditiis qui.",
+    "id": "f930125f-337a-4fa8-8962-84c5fba55028",
+    "image": "https://images.unsplash.com/photo-1515688594390-b649af70d282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxM3x8Q29zbWV0aWNzfGVufDB8MHx8fDE2OTczNjQyNDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Lindgren, Mraz and Mraz",
+    "name": "Exceptional Appliance",
+    "price": 1140,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "dc1fc001-5a25-4c2c-936b-72b1865f1965",
+      "name": "Toys",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "dc1fc001-5a25-4c2c-936b-72b1865f1965",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Qui neque aut ex corrupti ad odit. Rerum excepturi vitae saepe et omnis facere blanditiis. Ipsam inventore laborum laboriosam dolores iste culpa. Explicabo excepturi et voluptas sunt sed.",
+    "id": "672f2291-837e-4965-916a-9771bb1071dc",
+    "image": "https://images.unsplash.com/photo-1488806374796-a4071c52353b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyfHxDcmFmdHN8ZW58MHwwfHx8MTY5NzM2NDI2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Yost Inc",
+    "name": "Exquisite Implement",
+    "price": 1130.87,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "6a342ad8-380c-4977-9fe9-cdb6b0e7310e",
+      "name": "Books",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "6a342ad8-380c-4977-9fe9-cdb6b0e7310e",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Quibusdam natus necessitatibus omnis omnis libero nemo. Velit doloribus id id molestiae. Earum iusto quidem vitae consequatur voluptatum alias.",
+    "id": "465d5926-fec1-407b-8a22-72e643ff2fb3",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyfHxCb29rc3xlbnwwfDB8fHwxNjk3MzY0MjQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Jacobs, Nolan and Zboncak",
+    "name": "Stupendous Artifact",
+    "price": 309.52,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "92668c60-d0ce-42e5-aef3-fb3b771ff570",
+      "name": "Outdoor Gear",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "92668c60-d0ce-42e5-aef3-fb3b771ff570",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Dolores commodi maiores officia sunt. Deleniti nesciunt et nesciunt commodi vero accusamus quis beatae.",
+    "id": "bb676e42-ef77-4c61-a377-cd7f4626dbce",
+    "image": "https://images.unsplash.com/photo-1612599316791-451087c7fe15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw0fHxTdGF0aW9uZXJ5fGVufDB8MHx8fDE2OTczNjQyNTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Schinner, Champlin and Carroll",
+    "name": "Fantastic Appliance",
+    "price": 1160.95,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "ce8ffbf3-3a8c-49e1-b9e6-e1fc3834f5a3",
+      "name": "Office Supplies",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "ce8ffbf3-3a8c-49e1-b9e6-e1fc3834f5a3",
+    "updated_at": "Sun, 10/15/2023"
+  },
+  {
+    "created_at": "Sun, 10/15/2023",
+    "description": "Et tenetur explicabo ab et qui vero. Atque neque in aut est blanditiis sint rem nemo. Dignissimos in eum asperiores.",
+    "id": "2472f5b7-97f1-4119-ac07-54fec2bc71f3",
+    "image": "https://images.unsplash.com/photo-1542843137-8791a6904d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxNXx8Q2hvY29sYXRlc3xlbnwwfDB8fHwxNjk3MzY0MjcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "manufacturer": "Grady Inc",
+    "name": "Marvelous Doozy",
+    "price": 824.96,
+    "product_category": {
+      "created_at": "Sun, 10/15/2023",
+      "id": "53a0ff81-1234-4092-863d-772c7becad82",
+      "name": "Baby Products",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "product_category_id": "53a0ff81-1234-4092-863d-772c7becad82",
+    "updated_at": "Sun, 10/15/2023"
+  }
+]
