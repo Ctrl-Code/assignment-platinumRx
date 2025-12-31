@@ -1,0 +1,1 @@
+export {getRandomPrice} from './getRandomPrice'
