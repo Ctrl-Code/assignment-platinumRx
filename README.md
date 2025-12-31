@@ -1,3 +1,5 @@
+Deployment URL - [https://assignment-platinum-rx.vercel.app](https://assignment-platinum-rx.vercel.app)
+
 # Assignment Questions
 
 ## 1. What makes this page SEO-friendly?
